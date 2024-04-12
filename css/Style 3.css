@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top-bar{
+	width: 100%; min-height: 50px; color: #BFBFBF; border-bottom: 1px #DCD5D5 solid; line-height: 50px
+; left: o; top: 0}
+.ml-15{
+	margin-left: 15px
+}
+.ml-10{
+	margin-left: 10px
+}
+header{
+	width: 100%; height: 300px
+}
+.menu{padding-top: 15px}
+.menu ul{margin: 0; padding: 0; list-style: none; display: flex}
+.menu ul li a{padding: 10px 20px; text-decoration: none; color: dimgray}
+.menu ul li a:hover{ 
+background-color: rgba(110,110,110,1.00); color: white; border-radius: 15px}
+
+.caption{
+	width: 30%; top: 400px; position: absolute; left: 35%; text-align: center
+}
+.caption h1{
+	color: rgba(253,220,0,0.90); font-size: 40px
+}
+.caption p{color: white}
+
+.icon{padding-top: 15px
+	
+}
+.text-den{
+	color: black
+}
+.banner{
+	width: 100%; min-height: 750px
+}
+main h2{
+	color: #373737; text-decoration-line: none; text-align: center; text-decoration-color: #5A0001
+}
+
+
+.w-30{
+	width: 33.33%; padding: 20px; float: left
+}
+.vien-do{
+	border: 1px #8F0002 solid; padding: 15px; position: relative; overflow: hidden
+}
+.tran-vien{
+	
+	width: 100%; height: auto; padding: 0; margin: 0
+}
+#san-pham{
+	height: 1050px;
+}
+#feature{
+	width: 100%; min-height: 600px; background-image: url("../images/bg2.png"); background-repeat: no-repeat; background-size: cover; background-position: bottom center
+}
+.bg-anh{
+	width: 100%; min-height: 700px; position: relative
+}
+.gach-chan{
+	border-bottom: 1px solid #9A0002
+}
+.icon-2{
+	
+	width: 80%; height: 45px; position: absolute;left: 10%; top: -15%; display: flex; justify-content: space-around; transition: all 1s
+}
+.icon-2 a{
+	height: 45px; width: 45px; background-color: darkred; border-radius: 50px; display: flex; justify-content: center; align-items: center; text-decoration: none; color: white
+}
+.icon-2 a:hover{
+	background-color: #C0C0C0; color: darkred
+}
+.vien-do:hover .icon-2{
+	top: 40%
+}
+.gach-chan2{
+	border-bottom: 2px solid #9A0002
+}
+.pt-30{
+	padding-top: 30px
+}
+.vien-trang{
+	border: 1px solid white; text-align: center; padding: 20px
+}
+.vien-trang a{ 
+text-decoration: none; color: darkred
+}
+.vien-trang a:hover{
+	color: #E5E4E4
+}
+#contact{
+	width: 100%; min-height: 600px; background-image: url("../images/Banner2.png");  background-repeat: no-repeat; background-size: cover; background-position: centercenter
+}
+.shadow{
+	min-height: 300px; border: 1px solid  #FFFFFF; box-shadow: 5px 5px 5px gray; padding: 30px
+}
+.form-control{
+	padding: 8px; width: 100%; margin-bottom: 10px; 
+}
+.text-normal{
+	font-family: "Poppins", sans-serif
+}
+.text-xam{
+	color: #666666
+}
+.ml-5{
+	margin-left: 5px
+}
+#infor{
+	width: 100%; min-height: 900px; padding-bottom: 50px
+}
+h1{
+	font-size: 25px
+}
+.highlight{
+	background-color: #CDCDCD; border-radius: 20px; 
+}
+#Lien-he{ 
+width: 100%; min-height: 1000px}
+.vien-xam{
+	border: 1px solid #929292; text-align: center; padding: 20px; border-radius: 
+	5px; 
+}
+#footer{
+	width: 100%; height: 80px; background-color: #DDDDDD;color: darkred; line-height: 80px
+}
+
